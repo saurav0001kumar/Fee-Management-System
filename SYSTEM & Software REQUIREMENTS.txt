@@ -1,0 +1,8 @@
+# SYSTEM & Software REQUIREMENTS for running this java application.
+
+1. Windows XP/7/8/8.1/10 Operating System (32-bit or 64-bit)
+2. Java™ Runtime Environment 32-bit INSTALLER (Version 8.0 Update 101 or latest version)
+
+
+
+*NOTE: Don't use JAVA Runtime Environment for 64-bit. Use only 32-bit version.

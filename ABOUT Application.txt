@@ -1,0 +1,39 @@
+# *ABOUT APPLICATION*
+
+# Application Name : Fee Status Manager (32-bit) FULL-VERSION for 50 years
+# Application Version : 1.0.0.1 [FULL VERSION for 50 years]
+# Developer Name : *Saurav Kumar*
+# Company : SK01
+# Additional Software : Java™ Runtime Environment 8 update 101 for 32-bit
+
+This Application is Protected under Copyrights Law. 
+A Penalty will be charged for Re-selling of this Application. 
+
+It was developed with the help of programming language Java™ using:
+	-> NetBeans IDE 8.0.2 
+	-> H2 Console  
+	-> MySQL 5.5 Command Line Client 
+	-> exe4j by E.J. Technologies.[For conversion of .jar files to .exe]
+
+For more HELP , please contact the developer of this application.
+
+**CREDITs To : 
+
+         # SAURAV  KUMAR  (JAVA Programmer & MySQL Commander) 
+                                                                      
+         *Contact  E-Mail* : saurav001books@rediffmail.com
+
+**APPLICATION Requirements** : 
+                              > Windows XP / Vista / 7 / 8 / 8.1 / 10 (32-bit or 64-bit)
+                              > Java™ Runtime Environment (8.0 update 101 or later) for 32-bit
+
+
+
+###############################################################################################################
+
+     :) For more details e-mail developer at "saurav0001kumar@gmail.com" OR "saurav001books@rediffmail.com". :)
+
+###############################################################################################################
+
+
+	
