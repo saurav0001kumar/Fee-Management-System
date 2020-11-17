@@ -19,9 +19,7 @@ For more HELP , please contact the developer of this application.
 
 **CREDITs To : 
 
-         # SAURAV  KUMAR  (JAVA Programmer & MySQL Commander) 
-                                                                      
-         *Contact  E-Mail* : saurav001books@rediffmail.com
+         # SAURAV  KUMAR                                                                     
 
 **APPLICATION Requirements** : 
                               > Windows XP / Vista / 7 / 8 / 8.1 / 10 (32-bit or 64-bit)
@@ -31,7 +29,7 @@ For more HELP , please contact the developer of this application.
 
 ###############################################################################################################
 
-     :) For more details e-mail developer at "saurav0001kumar@gmail.com" OR "saurav001books@rediffmail.com". :)
+               :) For more details e-mail developer at "sauravkumar.cse2018@nsec.ac.in" :)
 
 ###############################################################################################################
 
